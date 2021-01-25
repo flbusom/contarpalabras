@@ -1,6 +1,3 @@
-
-
-
 <br/><br/><br/>
 
 # Módulo 6: Strings, iteradores, bucles y Regexp - Entrega P2P: Contar palabras
