@@ -1,6 +1,6 @@
 <br/><br/><br/>
 
-# Módulo 6: Strings, iteradores, bucles y Regexp - Entrega P2P: Contar palabras
+# Practica 7: Strings, iteradores, bucles y Regexp - Entrega P2P: Contar palabras
 
 ## Objetivos
  * Practicar con Strings, arrays e iteradores
